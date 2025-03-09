@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "others_info": {
+      "is_today_pick": true,
+      "is_trending": false
+    },
+    "category_id": 5,
+    "rating": 4.5,
+    "total_view": 12500,
+    "title": "The Future of AI",
+    "author": {
+      "name": "John Doe",
+      "published_date": "2025-03-08",
+      "image": "https://randomuser.me/api/portraits/women/44.jpg"
+    },
+    "thumbnail_url": "https://example.com/thumbnail1.jpg",
+    "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "details": "This article explores the advancements in AI and how they shape the future of technology."
+  },
+  {
+    "id": 2,
+    "others_info": {
+      "is_today_pick": false,
+      "is_trending": true
+    },
+    "category_id": 3,
+    "rating": 4.8,
+    "total_view": 22000,
+    "title": "The Rise of Quantum Computing",
+    "author": {
+      "name": "Jane Smith",
+      "published_date": "2025-02-15",
+      "image": "https://randomuser.me/api/portraits/men/45.jpg"
+    },
+    "thumbnail_url": "https://example.com/thumbnail2.jpg",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+    "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+  },
+  {
+    "id": 3,
+    "others_info": {
+      "is_today_pick": true,
+      "is_trending": true
+    },
+    "category_id": 2,
+    "rating": 4.7,
+    "total_view": 18000,
+    "title": "Exploring the Cosmos",
+    "author": {
+      "name": "Emily Johnson",
+      "published_date": "2025-01-10",
+      "image": "https://randomuser.me/api/portraits/women/46.jpg"
+    },
+    "thumbnail_url": "https://example.com/thumbnail3.jpg",
+    "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+    "details": "A journey through the latest discoveries in space exploration."
+  },
+  {
+    "id": 4,
+    "others_info": {
+      "is_today_pick": false,
+      "is_trending": false
+    },
+    "category_id": 1,
+    "rating": 4.2,
+    "total_view": 9500,
+    "title": "Health Benefits of a Plant-Based Diet",
+    "author": {
+      "name": "Michael Brown",
+      "published_date": "2025-03-01",
+      "image": "https://randomuser.me/api/portraits/men/47.jpg"
+    },
+    "thumbnail_url": "https://example.com/thumbnail4.jpg",
+    "image_url": "https://images.unsplash.com/photo-1576091160550-2173dba999ef",
+    "details": "How switching to a plant-based diet can improve health and longevity.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum"
+  },
+  {
+    "id": 5,
+    "others_info": {
+      "is_today_pick": false,
+      "is_trending": true
+    },
+    "category_id": 4,
+    "rating": 4.9,
+    "total_view": 30000,
+    "title": "The Evolution of Electric Vehicles",
+    "author": {
+      "name": "Sarah White",
+      "published_date": "2025-02-20",
+      "image": "https://randomuser.me/api/portraits/women/48.jpg"
+    },
+    "thumbnail_url": "https://example.com/thumbnail5.jpg",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+    "details": "A deep dive into the development and future of electric vehicles."
+  },
+  {
+    "id": 6,
+    "others_info": {
+      "is_today_pick": true,
+      "is_trending": false
+    },
+    "category_id": 6,
+    "rating": 4.6,
+    "total_view": 14500,
+    "title": "The Psychology of Success",
+    "author": {
+      "name": "David Green",
+      "published_date": "2025-03-05",
+      "image": "https://randomuser.me/api/portraits/women/44.jpg"
+    },
+    "thumbnail_url": "https://example.com/thumbnail6.jpg",
+    "image_url": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum Understanding the mindset behind achieving personal and professional success."
+  },
+  {
+    "id": 7,
+    "others_info": {
+      "is_today_pick": false,
+      "is_trending": false
+    },
+    "category_id": 2,
+    "rating": 4.3,
+    "total_view": 8800,
+    "title": "The History of Space Travel",
+    "author": {
+      "name": "Lisa Blue",
+      "published_date": "2025-02-28",
+      "image": "https://randomuser.me/api/portraits/men/45.jpg"
+    },
+    "thumbnail_url": "https://example.com/thumbnail7.jpg",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+    "details": "A retrospective look at humanity’s journey into space."
+  },
+  {
+    "id": 8,
+    "others_info": {
+      "is_today_pick": false,
+      "is_trending": true
+    },
+    "category_id": 3,
+    "rating": 4.8,
+    "total_view": 21000,
+    "title": "The Next Big Thing in Tech",
+    "author": {
+      "name": "Chris Red",
+      "published_date": "2025-02-12",
+      "image": "https://randomuser.me/api/portraits/men/45.jpg"
+    },
+    "thumbnail_url": "https://example.com/thumbnail8.jpg",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+    "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum Innovations and trends that will shape the future of technology."
+  },
+  {
+    "id": 9,
+    "others_info": {
+      "is_today_pick": true,
+      "is_trending": false
+    },
+    "category_id": 1,
+    "rating": 4.4,
+    "total_view": 10500,
+    "title": "Mindfulness and Mental Health",
+    "author": {
+      "name": "Anna Black",
+      "published_date": "2025-03-06",
+      "image": "https://randomuser.me/api/portraits/men/45.jpg"
+    },
+    "thumbnail_url": "https://example.com/thumbnail9.jpg",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+    "details": "The role of mindfulness in improving mental well-being."
+  },
+  {
+    "id": 10,
+    "others_info": {
+      "is_today_pick": false,
+      "is_trending": true
+    },
+    "category_id": 4,
+    "rating": 4.9,
+    "total_view": 27000,
+    "title": "The Future of Renewable Energy",
+    "author": {
+      "name": "Tom Yellow",
+      "published_date": "2025-02-18",
+      "image": "https://randomuser.me/api/portraits/men/45.jpg"
+    },
+    "thumbnail_url": "https://example.com/thumbnail10.jpg",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+    "details": "How renewable energy sources will transform global energy consumption."
+  },
+  {
+    "id": 11,
+    "others_info": {
+      "is_today_pick": true,
+      "is_trending": false
+    },
+    "category_id": 5,
+    "rating": 4.5,
+    "total_view": 15000,
+    "title": "Artificial Intelligence in Daily Life",
+    "author": {
+      "name": "Samantha Grey",
+      "published_date": "2025-03-07",
+      "image": "https://randomuser.me/api/portraits/men/45.jpg"
+    },
+    "thumbnail_url": "https://example.com/thumbnail11.jpg",
+    "image_url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4",
+    "details": "The impact of AI on everyday activities and its future potential."
+  }
+]
