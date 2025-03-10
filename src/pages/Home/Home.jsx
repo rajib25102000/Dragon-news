@@ -20,9 +20,10 @@ const Home = () => {
         </div>
         {/* Up Comming news */}
         <div className="md:col-span-2 border-2 rounded-lg p-4 ">
-          {news.map((aNews) => (
-            <NewsCard key={aNews.id} news={aNews}></NewsCard>
-          ))}
+          {Array.isArray(news) &&
+            news?.map((aNews) => (
+              <NewsCard key={aNews.id} news={aNews}></NewsCard>
+            ))}
         </div>
         <div className="">
           <RightSideNav></RightSideNav>
